@@ -1,1 +1,5 @@
 .DS_Store
+get-pip.py
+dist
+node_modules
+package-lock.json
